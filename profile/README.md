@@ -10,7 +10,9 @@
 <h1 align="center">
   <!-- TODO add club image-->
 
- <img height=200 src="https://user-images.githubusercontent.com/77758884/200110227-e6e23737-2c41-419a-8b95-0e5a9d9e650a.png" /><img height=200 src="https://user-images.githubusercontent.com/77758884/200110354-c4a51afb-e8c6-48de-9d2a-6f35518a07bb.png" />
+ 
+ <img width=50% height=200 src="https://user-images.githubusercontent.com/77758884/201036660-7fd90267-96e1-4783-80d4-5dd544ddb912.png" />
+
 
 </h1>
 
@@ -90,7 +92,7 @@ Thank You 🎉
 
 </details>
 
-<h2 align="center">📦 Our Activites</h2>
+<h2 align="center">📦 Our Activities</h2>
 
 In meeting the club's goals, we are constantly focused on having engaging activties and sessions aligned with helping members skillup. 🎉\
 Our goal lies in adopting tools and techniques that can help in empowering our especially as they delve into Open Source Software. 💪
