@@ -34,7 +34,7 @@
 <h2 align="center"> 📜 About Us </h2>
 
 - KCAUDevClub <!-- is TODO add more description--> 🔥 
-- Join to our [Discord](https://discord.gg/BQqUsfkZ) space to stay tuned about new events, announcements, club progress projects, and much more. 💥
+- Join to our [Discord](https://discord.gg/4jnCNQepty) space to stay tuned about new events, announcements, club progress projects, and much more. 💥
 
 - We are glad you there! 😁
 
