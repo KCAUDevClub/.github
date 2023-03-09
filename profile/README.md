@@ -103,14 +103,9 @@ At the moment, some of the planned and ongoing activties are as explained below!
 ![image](https://user-images.githubusercontent.com/77758884/200108431-70285264-5535-49d1-9e59-95010dfcab75.png)
 
 - 30 Days Challenge focused on learning and engaging in Android App Development where members have the platform to apply their skills in mobile application.
-- We have weekly sessions, on Thursday at 2000 Hours and on Sunday at 1500 Hours EAT 
+- We have daily and weekly sessions aimed at exploring core aspects in ANdroid Mobile App Development 
 
-## 60 Days of Compose
 
-![image](https://user-images.githubusercontent.com/77758884/200109346-6169f918-9156-4c88-9a48-285009dea5c9.png)
-- THE 60 Days Challenge stems from the 30 Day Challenge, and forms the basis towards improvement and mastering mobile app development with [Kotlin Programming Language]() and [JetPack Compose]()
-### 90 Days of Compose
-![image](https://user-images.githubusercontent.com/77758884/200109359-eb6853c9-ca00-43a0-bfa6-94d1fa0f26ee.png)
 ### GDSC | Compose Hackaton(s)
 ![image](https://user-images.githubusercontent.com/77758884/200109584-420b8d86-c2a1-44a2-8f83-b97b25311e20.png)
 
